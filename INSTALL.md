@@ -51,7 +51,7 @@ Close nano with `ctrl + x`, then press `Y` to save the changes.
 cd /home/seedchecker
 bash scripts/install.sh domain.com //replace domain.com with your domain
 ```
-**Attention! At the end of the installation, your login and password for accessing the checker will appear in the console. Save them. You can change your password later on the /settings page.
+**Attention! At the end of the installation, your login and password for accessing the checker will appear in the console. Save them. You can change your password later on the /settings page.**
 
 ### [1.2] If the domain is missing
 
@@ -59,7 +59,7 @@ bash scripts/install.sh domain.com //replace domain.com with your domain
 cd /home/seedchecker
 bash scripts/install.sh
 ```
-**Attention! At the end of the installation, your login and password for accessing the checker will appear in the console. Save them. You can change your password later on the /settings page.
+**Attention! At the end of the installation, your login and password for accessing the checker will appear in the console. Save them. You can change your password later on the /settings page.**
 
 ### Checker update (if a new version is released)
 
